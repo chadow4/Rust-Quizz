@@ -1,4 +1,3 @@
-/// Copyright BENEDUCI Marie & SANCHEZ Julien
 /// Ce projet permet de lancer un questionnaire de 3 questions choisi par l'utilisateur et de lui doner son score à la fin.
 
 extern crate rand;
