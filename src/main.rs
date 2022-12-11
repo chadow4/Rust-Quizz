@@ -48,7 +48,7 @@ mod tests {
 fn main() {
 
     ///Declaration des differentes matieres au choix de l'utilisateur
-    let mut matieres = ["Matematiques", "Histoire", "Musique", "Informatique"];
+    let mut matieres = ["Mathématiques", "Histoire", "Musique", "Informatique"];
 
     /// Declarations des questions, reponses etbonne réponses aux differents questionnaires
     let mut questionHistoire = ["Quelle est la date de la fin de la Première Guerre mondiale ?", "Quand à été mis à disposition des femmes la première pilule contraceptive ?", "De quand date la fondation de la Chine communiste ?"];
